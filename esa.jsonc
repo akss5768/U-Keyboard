@@ -1,0 +1,8 @@
+{
+    "name": "keyboard-tester",
+    "installCommand": "npm install",
+    "assets": {
+        "directory": "./dist",
+        "notFoundStrategy": "singlePageApplication"
+    }
+}
